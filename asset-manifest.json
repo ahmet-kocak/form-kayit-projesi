@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/form-kayit-projesi/static/css/main.a451d87f.css",
+    "main.js": "/form-kayit-projesi/static/js/main.f6a31ccb.js",
+    "static/js/787.c1112931.chunk.js": "/form-kayit-projesi/static/js/787.c1112931.chunk.js",
+    "index.html": "/form-kayit-projesi/index.html",
+    "main.a451d87f.css.map": "/form-kayit-projesi/static/css/main.a451d87f.css.map",
+    "main.f6a31ccb.js.map": "/form-kayit-projesi/static/js/main.f6a31ccb.js.map",
+    "787.c1112931.chunk.js.map": "/form-kayit-projesi/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a451d87f.css",
+    "static/js/main.f6a31ccb.js"
+  ]
+}
